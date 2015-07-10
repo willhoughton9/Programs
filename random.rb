@@ -1,0 +1,1 @@
+puts 'The weatherman said there is a ' + (rand(101).to_s + '% change of rain.')
